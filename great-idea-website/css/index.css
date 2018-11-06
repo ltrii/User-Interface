@@ -122,13 +122,6 @@ header a {
 	width: 300px;
 }
 
-.allcont {
-	padding-top: 5px;
-	padding-bottom: 5px;
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
-}
-
 .toptwo {
 	float: left;
     width: 48%;
@@ -136,6 +129,36 @@ header a {
 	padding: 10px 0px;
 }
 
+.btmthr {
+	display: inline-block;
+	width: 31%;
+	margin: .8%;
+	padding: 10px 0px;
+}
+
+address {
+	font-size: .95em;
+}
+
+.allcont {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-top: 1px solid black;
+	width: 100%;
+	
+}
+
+.adarea {
+	width: 100%;
+	padding-top: 15px;
+	border-top: 1px solid black;
+}
+
+.middle-img {
+	padding: 10px 0px;
+}
+
 footer {
 	text-align: center;
+	font-size: .8em;
 }
